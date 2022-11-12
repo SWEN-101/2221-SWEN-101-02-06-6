@@ -7,8 +7,8 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 ## Team 
 <_each team member clones repo and then edits/replace with their name below_>
 - Devin Rhodie
-- MEMBER02
-- MEMBER03
+- Shobhit Sharma
+- Susant Raut
 - MEMBER04
 
 
@@ -40,6 +40,6 @@ If any shortcomings, make clear what these are and where they are located.
 
 ## License
 
-<_replace with the type of license you will use for the project_> e.g. MIT License
+Apache License Version 2.0
 
 See LICENSE for details.
