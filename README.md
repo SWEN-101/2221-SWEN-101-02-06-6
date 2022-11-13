@@ -9,7 +9,7 @@ An online E-store system built in github.io .. etc. <_replace with other platfor
 - Devin Rhodie
 - Shobhit Sharma
 - Susant Raut
-- MEMBER04
+- Tai Wilson
 
 
 ## Prerequisites  <_add anything else that applies_>
