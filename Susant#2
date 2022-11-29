@@ -2,9 +2,6 @@
     <title>
         FreshValue
     </title>
-    <head>
-        <meta charset="UTF-8">
-    </head>
     <body>
         <!-- Don't change the banner/topLabel class -->
         <div class = "topLabel">
@@ -28,7 +25,7 @@
         <!-- this is the map -->
         <div class = "mapSquare">
             <h1 class = "center"> Map</h1>
-            <img src = "file:///Users/susantraut/Documents/SWEN%20REPO/map.png" width = "580" height = "310">
+            <img src = "file:///Users/susantraut/Documents/SWEN%20REPO/map2.png" width = "580" height = "310">
 
         </div>
         <div class = "costSquare">
@@ -49,10 +46,7 @@
             </div>
             <div class = "go">
                 <br>
-                <a href="file:///Users/susantraut/Documents/SWEN%20REPO/2221-SWEN-101-02-06-6/Susant%232.html">
-                    <h1>GO</h1>
-                </a>
-                <!-- <h1>GO</h1> -->
+                <h1>GO</h1>
             </div>
         
         </div>
@@ -120,7 +114,7 @@
     }
     /*You can delete class after this line*/
     .drive{
-        background-color: lightblue;
+        background-color: darkgrey;
         height:35;
         width:110;
         align-items: left;
@@ -148,7 +142,6 @@
 
     }
     .go{
-        
         background-color: green;
         height:110;
         width:100;
